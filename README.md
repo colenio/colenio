@@ -25,8 +25,8 @@ For us this is more than just a chic claim. We are not normal consultants, we lo
 
 ### GitHub Activity
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
