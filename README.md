@@ -1,6 +1,6 @@
 ### Hi there, We are Consileo 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mkoertg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/consileo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/consileo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/consileo)
 
 ## Consileo: getting digital things done
 
