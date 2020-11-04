@@ -19,6 +19,11 @@ For us this is more than just a chic claim. We are not normal consultants, we lo
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Urteil des EuGH zum Privacy Shield](https://consileo.de/blog/2020-07-17-urteil-des-eugh-zum-privacy-shield/)
+- [[Update] "Cookie-Einwilligung II" - Urteil des BGH](https://consileo.de/blog/2020-05-28-cookie-einwilligung-2-urteil-des-bgh/)
+- [Ein harter Keks? zum "Cookie"-Urteil des EuGH](https://consileo.de/blog/2020-01-09-ein-harter-keks-zum-cookie-urteil-des-eugh/)
+- [DSGVO - Kuriositäten](https://consileo.de/blog/2019-03-22-dsgvo-kuriositaeten/)
+- [EU-US Privacy Shield](https://consileo.de/blog/2019-03-20-eu-us-privacy-shield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
